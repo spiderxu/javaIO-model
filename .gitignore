@@ -1,0 +1,5 @@
+# Project exclude paths
+/AIO-model/target/
+/BIO-model/target/
+/NIO-model/target/
+/target/
